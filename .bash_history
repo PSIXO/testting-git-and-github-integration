@@ -18,4 +18,4 @@ exit
 adb shell
 ls
 pwd
-
+test
